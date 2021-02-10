@@ -9,7 +9,8 @@
   color: #fff;
   text-align: center;
   font-size: 16px;
-  background-color: #000000;
+  background-color: #4b4949;
+
   line-height: 1.5em;
 }
 .snip1487 *,
@@ -117,7 +118,7 @@
   right: 0;
   -webkit-transition: all 0.35s ease;
   transition: all 0.35s ease;
-  background-color: #000000;
+  background-color: #f78d8d77;
   border-left: 3px solid #fff;
   border-right: 3px solid #fff;
   content: "";
@@ -153,11 +154,11 @@
   box-shadow: 0 0 10px #000000;
 }
 
-.snip1573 h3 {
+.snip1573 h5 {
   background-color: #000000;
   border: 2px solid #fff;
   color: #fff;
-  font-size: 1em;
+  font-size: 0.7em;
   font-weight: 600;
   letter-spacing: 1px;
   margin: 0;
@@ -199,23 +200,29 @@
 }
 .lines {
   margin: auto;
-  width: 100px;
+  width: 60px;
 
   position: relative;
-  border-top: 2px solid #f0ad4e;
+  border-top: 2px solid #1b1b1a;
   margin-top: 15px;
   margin-bottom: 15px;
 }
 h1.heading {
-  font-size: 2.5em;
   letter-spacing: 1px;
-  color: #f0ad4e;
-  font-family: "Poor Story", cursive !important;
+  color: #20201f;
+  font-family: "PT Sans", sans-serif;
   margin-bottom: 10px;
 }
 .card {
-  width: 700px;
-  height: 270px;
-  border: 2px solid #f5ca8f;
-  box-shadow: 3px 3px 3px #f5ca8f;
+  width: 500px;
+  height: 200px;
+
+  box-shadow: 3px 3px 3px #696767e3;
+}
+.card-title {
+  font-family: Open Sans, sans-serif;
+}
+.card-text {
+  color: rgb(78, 77, 77);
+  font-family: Open Sans, sans-serif;
 }

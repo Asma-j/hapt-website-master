@@ -12,44 +12,22 @@
   color: #ff5a5f;
 }
 h3 {
-  color: #f0ad4e;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #1a1918e3;
+  font-family: "PT Sans", sans-serif;
 }
 h4 {
-  color: #f0ad4e;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #1a1918e3;
+  font-family: "PT Sans", sans-serif;
 }
-.card-header {
-  color: #ff5a5f;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  height: 60px;
-}
-.card {
-  width: 350px;
-  height: 400px;
-}
-h1.heading {
-  font-size: 2.5em;
-  letter-spacing: 1px;
-  color: #f0ad4e;
-  font-family: "Poor Story", cursive !important;
-  margin-bottom: 10px;
-}
-.lines {
-  margin: auto;
-  width: 100px;
 
-  position: relative;
-  border-top: 2px solid #f0ad4e;
-  margin-top: 15px;
-  margin-bottom: 15px;
-}
 .prix {
   text-align: center;
   color: #ff5a5f;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family: "PT Sans", sans-serif;
+}
+.btn {
+  background-color: #36353554;
+  width: 190px;
+  font-size: small;
+  padding-left: 12px;
 }
